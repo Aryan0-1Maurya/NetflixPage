@@ -1,0 +1,27 @@
+{
+    "name": "netflix_landing-page_mui",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+      "dev": "next dev",
+      "build": "next build",
+      "start": "next start",
+      "lint": "next lint"
+    },
+    "dependencies": {
+      "@emotion/cache": "^11.10.5",
+      "@emotion/react": "^11.10.5",
+      "@emotion/server": "^11.10.0",
+      "@emotion/styled": "^11.10.5",
+      "@fontsource/roboto": "^4.5.8",
+      "@mui/icons-material": "^5.11.0",
+      "@mui/material": "^5.11.3",
+      "@next/font": "13.1.1",
+      "eslint": "8.31.0",
+      "eslint-config-next": "13.1.1",
+      "next": "^13.5.6",
+      "react": "18.2.0",
+      "react-dom": "18.2.0"
+    }
+  }
+  
